@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "App/assets/fonts/Recoleta-RegularDEMO.otf",
+      "sha1": "56bec949bc9ac1bf62b44e1d846c4dff001433f1"
+    },
+    {
+      "path": "App/assets/images/logo.png",
+      "sha1": "16e1c02783188095b101e42762f919394af7f591"
+    }
+  ]
+}
